@@ -1,6 +1,6 @@
 ## Creating Project
 
-![start](start.gif)
+![start](start.GIF)
 
 ## Empty Project
 
