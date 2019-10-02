@@ -4,39 +4,39 @@
 
 ## Empty Project
 
-![Empty](Empty.gif)
+![Empty](Empty.GIF)
 
 ## mvc Controller
 
-![mvcController](mvcController.gif)
+![mvcController](mvcController.GIF)
 
 ## Add view and select layout
 
-![AddViewSelectLayout](AddViewSelectLayout.gif)
+![AddViewSelectLayout](AddViewSelectLayout.GIF)
 
 ## Click Add View
 
-![ClickAddView](ClickAddView.gif)
+![ClickAddView](ClickAddView.GIF)
 
 ## Add Render Section On Top
 
-![RenderSectionOnTop](RenderSectionOnTop.gif)
+![RenderSectionOnTop](RenderSectionOnTop.GIF)
 
 ## Change App Name
 
-![ChangeAppName](ChangeAppName.gif)
+![ChangeAppName](ChangeAppName.GIF)
 
 ## Modify Route
 
-![ModifyRoute](ModifyRoute.gif)
+![ModifyRoute](ModifyRoute.GIF)
 
 ### Create a folder named "react" in script. Create package.json with following value
 
-![npmInit](npmInit.gif)
+![npmInit](npmInit.GIF)
 
 ## Install React
 
-![installReact](installReact.gif)
+![installReact](installReact.GIF)
 
 Include package.json but not node_modules
 
@@ -45,15 +45,15 @@ For vs2019
 
 npm install --save-dev @babel/core @babel/preset-env babel-loader @babel/preset-react webpack webpack-cli
 
-![InstallBabel](InstallBabel.gif)
+![InstallBabel](InstallBabel.GIF)
 
 ## Webpack Config
-![WebpackConfig](WebpackConfig.gif)
+![WebpackConfig](WebpackConfig.GIF)
 
 ## appjs
-![appjs](appjs.gif)
+![appjs](appjs.GIF)
 
 ## modify WebpackConfig. run npm run webpack. Check dist folder
 
-![modifyWebpackConfig](modifyWebpackConfig.gif)
+![modifyWebpackConfig](modifyWebpackConfig.GIF)
 
