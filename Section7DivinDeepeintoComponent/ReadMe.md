@@ -70,6 +70,39 @@ Using hoc
 
 ![WithClassInPerson](WithClassInPerson.GIF)
 
+## Setting State Correctly
+
+Adding Change counter state at app.js
+
+![AddingNewState](AddingNewState.GIF)
+
+Setting Counter Value
+
+![SetCounterValue](SetCounterValue.GIF)
+
+Setting multiple state can cause error. React doesnt set state immediatly. So the safe way is given below:
+
+![SettingStateCorrectly](SettingStateCorrectly.GIF)
+
+Check State Value
+![CheckStateValue](CheckStateValue.GIF)
+
+## Define datatype in props
+
+#### Install package
+
+![PackageProptypes](PackageProptypes.GIF)
+
+#### Import package
+
+![Import](Import.GIF)
+
+#### Define Types
+
+![DefineTypes](DefineTypes.GIF)
+
+Throws error if string is passed in Prop: Age instead of int 
+![Error](Error.GIF)
 
 
 
