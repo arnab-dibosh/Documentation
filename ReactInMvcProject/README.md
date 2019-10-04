@@ -57,3 +57,27 @@ npm install --save-dev @babel/core @babel/preset-env babel-loader @babel/preset-
 
 ![modifyWebpackConfig](modifyWebpackConfig.GIF)
 
+## Add webpack Rules
+
+![webpackRules](webpackRules.GIF)
+
+## Add AddWatch
+
+![AddWatch](AddWatch.GIF)
+
+
+### For 2019 change webpack and package file
+
+![packageFile](packageFile.GIF)
+![webpack](webpack.GIF)
+
+
+### React code
+
+![reactCode](reactCode.GIF)
+
+### Add root div and bundle script to controller view
+
+![AddRootDiv](AddRootDiv.GIF)
+
+
