@@ -8,8 +8,6 @@
 
 **componentDidMount**: Dont call setState sequencially. Can do on then block
 
-![ComponentLifecycle](ComponentLifecycle.GIF)
-
 ## Sequence of Execution
 
 #### Component create
