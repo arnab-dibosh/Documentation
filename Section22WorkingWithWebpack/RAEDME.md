@@ -150,3 +150,12 @@ module.exports={
 
 ## Add Add StageTwo Preset
 ![AddStageTwoPreset](AddStageTwoPreset.GIF)
+
+## Build command
+![Buildcommand](Buildcommand.GIF)
+
+## Production Build command
+![ProductionBuild](ProductionBuild.GIF)
+
+## Old Browser Compatibility
+![OldBrowserCompatibility](OldBrowserCompatibility.GIF)
